@@ -6,9 +6,16 @@ Official PyTorch implementation for the following paper:
 *by Yanmei Zou, [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm) *, Yaonan Wang, [Zhengeng Yang](https://gsy.hunnu.edu.cn/info/1071/3537.htm), Xieyuanli Chen, 	[Kailun Yang](https://yangkailun.com), [Naveed Akhtar](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar)
 
 ## Features
-In the project, we propose:
-1. a plug-and-play bilateral attention fusion module (BAFM) to improve the performance of “Encoder-Decoder” structures by preserving fine-grained semantic information for dense multi-classification tasks.
+In the project,:
+1. We extend the unified ABS-REF view presented in [9] for efficient point cloud processing, where non-local MLPs are used to update non-local information, and HPE is deployed to effectively represent local geometric information. The ABS-REF paradigm underpins current high-performing point cloud modeling techniques, providing an intuitive framework for delineating the key strengths of these methods.
 
+2. We propose a simple and effective Backward Fusion Module (BFM) to leverage contextual information. The BFM enables bilateral interaction between multi-resolution features.
+
+3. Experiments on MLP-based methods are expanded considerably. We rethink various configurations of local aggregations in MLP-based methods and propose distinct aggregation strategies for different stages, departing from the consistent strategies employed across all stages in prior approaches[6 - 7].
+
+4. To verify the effectiveness of the proposed modules, we introduce non-local MLPs, high-dimensional positional encoding, and backward fusion modules and incorporate them in the Transformer-based Point Transformer (PT) technique [13]. Our experiments demonstrate that these modules are highly compatible with PT, leading to significant improvements in its performance.
+ 
+5. Through extensive evaluation, we achieve state-of-the-art (SOTA) results across all tasks studied, including 3D object classification, scene semantic segmentation, 3D object part segmentation while also being faster and more device-friendly than existing SOTA MLP-based methods.
 
 
 ## Installation
