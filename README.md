@@ -128,10 +128,10 @@ Note:
 | :--------------:       | :----------------------------:  | :--------------: | :--------------: | :--------------:
 | 	HPENet			| 85.3 / 87.0     |   24.7     |  135.6 | 171 
 | 	HPENet (SIN)				| 85.5 / 87.1  |    24.7   |  135.3 | 158
-| 	HPENet V2-S 										|   84.6 ± 0.1 / 86.8 ± 0.1 |    1.1   | 2.1 | 1567
-| 	HPENet V2-S(c=64) 										|  84.8 ± 0.4 / 86.8 ± 0.0  |  4.3     | 8.0 | 823
-| 	HPENet V2-S(c=160) 										|  85.4 ± 0.1 / 87.2 ± 0.1 |    26.3   | 48.9 | 293
-| 	HPENet V2-S* 										|  85.4 / 87.3     |  26.3   | 48.9 | 293 
+| 	[HPENet V2-S](https://drive.google.com/drive/u/0/folders/1T6qekhAFyIjPH3wcimHMjodzOkjwIUfa)										|   84.6 ± 0.1 / 86.8 ± 0.1 |    1.1   | 2.1 | 1567
+| 	[HPENet V2-S(c=64)](https://drive.google.com/drive/u/0/folders/1InZjHtOJDgKXLYBxFS38tgLrcI4JEh6_) 										|  84.8 ± 0.4 / 86.8 ± 0.0  |  4.3     | 8.0 | 823
+| 	[HPENet V2-S(c=160)](https://drive.google.com/drive/u/0/folders/1UjYJjsp-duqS4gQWYdvtQIIRbpekUCJN) 										|  85.4 ± 0.1 / 87.2 ± 0.1 |    26.3   | 48.9 | 293
+| 	[HPENet V2-S*](https://drive.google.com/drive/u/0/folders/1D0qUW4mdsDCqclAz7d45M7Ah43Urjzjk)										|  85.4 / 87.3     |  26.3   | 48.9 | 293 
 
 
 
