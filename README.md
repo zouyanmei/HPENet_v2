@@ -95,11 +95,11 @@ Note:
 | 		PointMetaBase-XL + X-3D | 72.1 / 91.4 / - | 77.7 / 91.6 / -  | 18.1 | 9.8 | 74
 | 		HPENet			|    72.7 / 91.5 / 78.5     |    78.7 / 91.9 / 86.2   | 46.3  | 148.8| 57 
 | 		HPENet (SIN)			|    72.4 / 91.0 / 78.9    |    78.2 / 91.7 / 86.1    |  46.3  | 147.2  |50
-| 		HPENet V2-S | 65.2 ± 0.3 / 89.1 ± 0.2 / 71.8 ± 0.4    |   70.5 / 88.7 / 79.6   |  0.7  |  2.6  | 323   	
-| 		HPENet V2-B | 69.7 ± 0.3 / 90.4 ± 0.1 / 76.0 ± 0.4    |   76.0 / 91.0 / 84.3     | 1.8  |  3.7  | 260  
-| 		HPENet V2-L | 71.0 ± 0.1 / 91.2 ± 0.2 / 77.0 ± 0.3     |  77.5 / 91.6 / 85.3     | 2.9 | 4.2   | 231 
-| 		HPENet V2-XL | 72.3 ± 0.2 / 91.5 ± 0.1 / 78.4 ± 0.5  |  78.9 / 91.9 / 86.3     | 16.1  | 18.2  |  128 
-| 		HPENet V2-XL* | 72.6 / 91.6 / 78.8   |   78.9 / 91.9 / 86.3    |  16.1  | 18.2  | 128 
+| 		[HPENet V2-S](https://drive.google.com/drive/u/0/folders/1eq795VdTS4woeOjUDTtnaM1kf0g1Miog) | 65.2 ± 0.3 / 89.1 ± 0.2 / 71.8 ± 0.4    |   70.5 / 88.7 / 79.6   |  0.7  |  2.6  | 323   	
+| 		[HPENet V2-B](https://drive.google.com/drive/u/0/folders/1hibY6jZItPs_CjXA8NPN9sMBbT16OUgA) | 69.7 ± 0.3 / 90.4 ± 0.1 / 76.0 ± 0.4    |   76.0 / 91.0 / 84.3     | 1.8  |  3.7  | 260  
+| 		[HPENet V2-L](https://drive.google.com/drive/u/0/folders/1m7Jp1LrlSY1E8dlPbgxYSB9MTBOh795e) | 71.0 ± 0.1 / 91.2 ± 0.2 / 77.0 ± 0.3     |  77.5 / 91.6 / 85.3     | 2.9 | 4.2   | 231 
+| 		[HPENet V2-XL](https://drive.google.com/drive/u/0/folders/1pUWMBSRyF3EFcQsOTzapvMpt8zO0pA2T) | 72.3 ± 0.2 / 91.5 ± 0.1 / 78.4 ± 0.5  |  78.9 / 91.9 / 86.3     | 16.1  | 18.2  |  128 
+| 		[HPENet V2-XL*](https://drive.google.com/drive/u/0/folders/1MYr-LiEvhBmksVRCTTAI_QZIhc8l6ou4) | 72.6 / 91.6 / 78.8   |   78.9 / 91.9 / 86.3    |  16.1  | 18.2  | 128 
 
 ### ScanNet V2 Segmentation
 
