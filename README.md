@@ -117,10 +117,10 @@ Note:
 | 		PointMetaBase-XL + X-3D | 72.8 | 18.1 | 9.8 | 73
 | 		HPENet	|  74.0 |  74.3  | 220.9 | 40 
 | 		HPENet (SIN)	|  72.8 |  74.2  |  218.6 | 35
-| 		HPENet V2-S*   |    66.3   |  0.8 | 3.3 |  302
-| 		HPENet V2-B*   |    70.6   |  1.9 | 4.1 | 255
-| 		HPENet V2-L*	|   71.4    | 3.0 | 4.6 | 227
-| 		HPENet V2-XL*	|   73.3    |16.2 | 19.7| 125
+| 		[HPENet V2-S*](https://drive.google.com/drive/u/0/folders/1xROUhgnxwRf6YQjyLCqh6Dt4WBmHngnK)   |    66.3   |  0.8 | 3.3 |  302
+| 		[HPENet V2-B*](https://drive.google.com/drive/u/0/folders/18_2OPKwVNfh9ejVWh4XJQhKIxCTaqLyT)   |    70.6   |  1.9 | 4.1 | 255
+| 		[HPENet V2-L*](https://drive.google.com/drive/u/0/folders/1DFBFpeeQgVZB0Blg2cf6vNX2AOrSXyoW)	|   71.4    | 3.0 | 4.6 | 227
+| 		[HPENet V2-XL*](https://drive.google.com/drive/u/0/folders/1Bl2ebaQu7jWGy-2wL8w36fo9TPuPHSEu)	|   73.3    |16.2 | 19.7| 125
 
 ### ShapeNetPart Segmentation
 
